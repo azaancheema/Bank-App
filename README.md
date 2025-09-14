@@ -1,0 +1,2 @@
+Created a Bank Application app using Java/JavaFX that is applicable for account management and customer transactions. This includes a manager and customer role. The manager will have access to adding and deleting a customer's account. The customer will be able to sign up for an account and either deposit/withdraw money. Their level will be determined based on how much balance they have in their account
+
